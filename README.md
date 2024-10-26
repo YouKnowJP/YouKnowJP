@@ -30,8 +30,8 @@
 ---
 
 ### 🚀 Current Projects
-- **[Algorithmic Trading System](https://github.com/YouKnowJP/TradingSystem)**: A real-time trading bot using Python, Black-Scholes model, and live market data from Alpha Vantage
-- **[AIcedemy](https://github.com/YouKnowJP/AIcedemy)**: An educational app that uses CNNs to analyze images and generate personalized learning simulations
+- **[Algorithmic Trading System](https://github.com/YouKnowJP/Black-Scholes-Model-Trading)**: A real-time trading bot using Python, Black-Scholes model, and live market data from Alpha Vantage
+- **[AIcedemy]**: An educational app that uses CNNs to analyze images and generate personalized learning simulations
 - **Bioacoustics Project**: Creating a system to use bird sounds to enhance wildlife alertness
 
 ---

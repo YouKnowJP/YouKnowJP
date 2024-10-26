@@ -50,4 +50,6 @@ Feel free to explore my repositories, suggest collaborations, or just drop a mes
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouKnowJP&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+---
+
 ⭐️ From [YouKnowJP](https://github.com/YouKnowJP)

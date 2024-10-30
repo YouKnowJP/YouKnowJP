@@ -45,11 +45,4 @@ Feel free to explore my repositories, suggest collaborations, or just drop a mes
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YouKnowJP&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouKnowJP&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ⭐️ From [YouKnowJP](https://github.com/YouKnowJP)

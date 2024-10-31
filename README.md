@@ -39,7 +39,7 @@
 ### 🌟 Let's Connect
 - **LinkedIn:** [Thong Pham](https://www.linkedin.com/in/tpdatascience)
 - **Email:** ThongPhamBusiness@gmail.com
-- **Resume:** [View my resume](https://github.com/YouKnowJP/YouKnowJP/blob/main/Thong%20Pham%20Resume%201.pdf)
+- **Resume:** [View my resume](https://github.com/YouKnowJP/YouKnowJP/blob/main/Thong%20Pham%20Resume%201.docx.pdf)
 
 Feel free to explore my repositories, suggest collaborations, or just drop a message to chat!
 

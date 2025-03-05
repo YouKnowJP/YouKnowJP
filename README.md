@@ -12,15 +12,15 @@
 
 ---
 
-### 💻 About Me  
-- 🎓 **MSCS Student** at **University of Colorado, Boulder:** Specializing in Machine Learning (GPA: 4.0/4.0)  
-- 🤖 **Machine Learning Engineer** at **Kashmir World Foundation:** Optimizing AI models for real-time bioacoustic analysis  
-- 📊 **Quantitative Analyst & Data Scientist:** Experience in anomaly detection, investment strategies, and financial modeling  
-- 🚀 **AI Enthusiast & Researcher:** Building AI-driven solutions in algorithmic trading, NLP, and autonomous systems  
+### About Me  
+- **MSCS Student** at **University of Colorado, Boulder:** Specializing in Machine Learning (GPA: 4.0/4.0)  
+- **Machine Learning Engineer** at **Kashmir World Foundation:** Optimizing AI models for real-time bioacoustic analysis  
+- **Quantitative Analyst & Data Scientist:** Experience in anomaly detection, investment strategies, and financial modeling  
+- **AI Enthusiast & Researcher:** Building AI-driven solutions in algorithmic trading, NLP, and autonomous systems  
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 - **Programming Languages:** Python (TensorFlow, Scikit-learn, Keras, PyTorch, OpenCV, Seaborn), R, Java, C/C++, Swift, SQL  
 - **Machine Learning & AI:** XGBoost, CatBoost, SVM, PCA, LDA, Proximal Policy Optimization (PPO), NEAT  
@@ -30,18 +30,18 @@
 
 ---
 
-### 🚀 Current Projects
+### Current Projects
 - **[Algorithmic Trading System](https://github.com/YouKnowJP/Black-Scholes-Model-Trading):** A real-time trading bot using Python, Black-Scholes model, and live market data from Alpha Vantage
 - **AIcedemy:** An educational app that uses CNNs to analyze images and generate personalized learning simulations
 - **Bioacoustics Project:** Creating a system to use bird sounds to enhance wildlife alertness
 
 ---
 
-### 🌟 Let's Connect
+### Let's Connect
 - **LinkedIn:** [Thong Pham](https://www.linkedin.com/in/tpdatascience)
 - **Email:** ThongPhamBusiness@gmail.com
 - **Resume:** [View my resume](https://github.com/YouKnowJP/YouKnowJP/blob/main/Thong%20Pham%20Resume.pdf)
 
 ---
 
-⭐️ From [YouKnowJP](https://github.com/YouKnowJP)
+From [YouKnowJP](https://github.com/YouKnowJP)

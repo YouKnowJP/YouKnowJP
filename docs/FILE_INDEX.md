@@ -1,59 +1,31 @@
-# YouKnowJP: file index
+# YouKnowJP: File Index
 
-Browse the [repository guide](../README.md) for project context.
+See the [professional profile](../README.md) for experience, skills, projects,
+education, and contact information.
 
-This catalog lists **10 files** from Git-tracked paths and
-unignored local additions. Git internals, ignored local state, and
-Finder metadata are omitted. Refresh from the enclosing Personal PR
-folder with `python3 tools/refresh_indexes.py`.
+This repository contains the professional profile, resume documents, and
+license for Thong Pham.
 
-## Folder summary
+## Folder Summary
 
 | Folder | Files |
 | --- | ---: |
 | Root files | 3 |
-| [assets](../assets/) | 4 |
 | [docs](../docs/) | 1 |
-| [documents](../documents/) | 2 |
+| [documents](../documents/) | 3 |
 
-## Root files
-
-<details>
-<summary>3 files</summary>
+## Root Files
 
 - [.gitignore](../.gitignore)
 - [LICENSE](../LICENSE)
 - [README.md](../README.md)
 
-</details>
+## Documentation
 
-## assets
+- [File index](FILE_INDEX.md)
 
-<details>
-<summary>4 files</summary>
+## Resume Documents
 
-- [assets/impact-mobile.svg](../assets/impact-mobile.svg)
-- [assets/impact.svg](../assets/impact.svg)
-- [assets/profile-banner-mobile.svg](../assets/profile-banner-mobile.svg)
-- [assets/profile-banner.svg](../assets/profile-banner.svg)
-
-</details>
-
-## docs
-
-<details>
-<summary>1 files</summary>
-
-- [docs/FILE_INDEX.md](../docs/FILE_INDEX.md)
-
-</details>
-
-## documents
-
-<details>
-<summary>2 files</summary>
-
-- [documents/Thong-Pham-Resume-Original.pdf](../documents/Thong-Pham-Resume-Original.pdf)
-- [documents/Thong-Pham-Resume.pdf](../documents/Thong-Pham-Resume.pdf)
-
-</details>
+- [Professional resume (PDF)](../documents/Thong-Pham-Resume.pdf)
+- [Editable resume (Markdown)](../documents/Thong-Pham-Resume.md)
+- [Original resume archive](../documents/Thong-Pham-Resume-Original.pdf)

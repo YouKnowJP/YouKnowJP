@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Selected engineering and machine learning results</title>
+  <desc id="desc">Approximately 40 percent higher testing throughput, approximately 25 percent less manual data processing, above 99 percent first-pass fix rate, and 91.6 percent classification accuracy.</desc>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="0" y="8" width="282" height="172" rx="18" fill="#eefbf6"/>
+    <rect x="306" y="8" width="282" height="172" rx="18" fill="#f0edff"/>
+    <rect x="612" y="8" width="282" height="172" rx="18" fill="#fff0f4"/>
+    <rect x="918" y="8" width="282" height="172" rx="18" fill="#fff6e7"/>
+    <text x="23" y="39" font-size="11" font-weight="700" letter-spacing="1.4" fill="#16745b">EVALUATION TOOLING</text>
+    <text x="329" y="39" font-size="11" font-weight="700" letter-spacing="1.4" fill="#6542bc">DATA PIPELINES</text>
+    <text x="635" y="39" font-size="11" font-weight="700" letter-spacing="1.4" fill="#a33961">LLM ENGINEERING</text>
+    <text x="941" y="39" font-size="11" font-weight="700" letter-spacing="1.4" fill="#926008">BIOACOUSTICS</text>
+    <g font-size="47" font-weight="700" letter-spacing="-2" fill="#151b30">
+      <text x="21" y="99">~40%</text><text x="327" y="99">~25%</text><text x="633" y="99">&gt;99%</text><text x="939" y="99">91.6%</text>
+    </g>
+    <g font-size="16" fill="#41495f"><text x="23" y="132">higher testing throughput</text><text x="329" y="132">less manual processing</text><text x="635" y="132">first-pass fix rate</text><text x="941" y="132">classification accuracy</text></g>
+    <g font-size="11" fill="#697286"><text x="23" y="157">Mercor · dataset &amp; label quality</text><text x="329" y="157">Mercor · Snowflake to Hex</text><text x="635" y="157">Mercor · debugging &amp; review</text><text x="941" y="157">KWF · 200K+ audio/video clips</text></g>
+  </g>
+</svg>

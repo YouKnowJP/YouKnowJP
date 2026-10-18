@@ -1,71 +1,93 @@
-<h1 align="center">Hi, I'm Thong Pham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="35"></h1>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/tpdatascience/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
-  </a>
-  <a href="mailto:ThongPhamBusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-orange" alt="Email">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YouKnowJP&color=brightgreen" alt="Profile views" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg">
+    <img src="assets/profile-banner.svg" alt="Thong Pham — software engineer building systems for better AI. LLM evaluation, data systems, and applied machine learning." width="100%">
+  </picture>
 </p>
 
+<p align="center">
+  <a href="documents/Thong-Pham-Resume.pdf"><strong>📄 Download my resume</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/tpdatascience/"><strong>💬 Connect on LinkedIn</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:ThongPhamBusiness@gmail.com"><strong>✉️ Say hello</strong></a>
+</p>
+
+## 👋 A little about me
+
+I'm **Thong**, a software engineer based in **Las Vegas, Nevada**, working at the
+intersection of **LLM evaluation, data infrastructure, and applied machine learning**.
+
+At **Mercor**, I build Python tooling, evaluation workflows, and data pipelines
+that help AI teams measure quality and work more efficiently. My background spans
+bioacoustic classification, LLM-powered finance tools, and machine learning
+experiments — with an economics foundation that keeps the focus on useful results.
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/impact-mobile.svg">
+    <img src="assets/impact.svg" alt="Selected results: approximately 40% higher testing throughput; approximately 25% less manual data processing; above 99% first-pass fix rate; 91.6% bioacoustic classification accuracy." width="100%">
+  </picture>
+</p>
+
+## ⚡ What I bring to the work
+
+| Focus | What that looks like |
+| --- | --- |
+| **LLM evaluation & quality** | Model API integrations, dataset validation, acceptance criteria, reviewer feedback, and regression checks. |
+| **Data systems & tooling** | Python automation, Snowflake-to-Hex pipelines, Airtable workflows, and dashboards for model performance and label coverage. |
+| **Applied machine learning** | Classification with PyTorch, XGBoost, and OpenCV; feature selection, model interpretability, and experimentation. |
+
+## 🚀 Explore my projects
+
+| Project | Why explore it |
+| --- | --- |
+| [**Kaggle experiments**](https://github.com/YouKnowJP/Kaggle) | Notebooks spanning bioacoustics, healthcare, loan repayment, NLP, computer vision, agriculture, and time-series forecasting. |
+| [**Machine learning from the ground up**](https://github.com/YouKnowJP/Machine-Learning-Project) | Neural networks and regression implementations, plus Dino and Snake with deep Q-learning and Pong with NEAT. |
+| [**Switchback & personal projects**](https://github.com/YouKnowJP/Personal-Project) | A browser Snake game with phase-switching puzzles, campaign play, and arcade modes. |
+
+## 🧭 My path so far
+
+**Mercor · Software Engineer & Tooling**<br>
+*March 2025 - Present · San Francisco, CA*
+
+Built LLM evaluation tooling and end-to-end labeling workflows, including quality
+checks that maintained **under 1% post-evaluation defect rates**. My LLM engineering
+work also spans API debugging, technical specifications, and evaluator review,
+with a **20% reduction in feature iteration time**.
+
+**Kashmir World Foundation · Machine Learning Engineer Intern**<br>
+*September 2024 - February 2025 · Richmond, VA*
+
+Worked with **over 200,000 audio/video clips** using XGBoost, PyTorch, and OpenCV,
+and built dashboards to make modeling insights useful to conservation researchers.
+
+**Stealth Startup · Software Engineer**<br>
+*February 2023 - June 2024 · Irvine, CA*
+
+Delivered LLM-powered finance workflows, evaluation scripts, and a Python
+regression test harness to catch recurring issues before deployment.
+
+## 🛠️ Tools I work with
+
+| Area | Stack |
+| --- | --- |
+| **Programming** | Python · SQL · Java · C/C++ · R |
+| **Machine learning** | PyTorch · TensorFlow · Keras · scikit-learn · XGBoost · OpenCV · Seaborn |
+| **Data & cloud** | Snowflake · AWS S3 & EC2 · Google Cloud · Hex |
+| **Workflow & analytics** | Git & CI/CD · Docker · Airtable · Power BI · Tableau · Excel · Google Sheets & Workspace |
+
+## 🎓 Education & a little more
+
+- **M.S. Computer Science, Machine Learning** — University of Colorado Boulder<br>
+  June 2024 - December 2025 · **GPA 4.0 / 4.0**
+- **B.A. Business Economics** — University of California, Irvine<br>
+  September 2019 - December 2022
+- **Languages:** English and Vietnamese (native) · Spanish (intermediate)
+
 ---
 
-### About Me  
-
-- **Software Engineer & Tooling @ Mercor (Feb 2025 – Present)**  
-  Building Python-based LLM evaluation tooling, Snowflake→Hex data pipelines, and Airtable automations to support AI labs and large-scale data labeling workflows.  
-
-- **M.S. Computer Science (Machine Learning) @ University of Colorado Boulder (2024–2025)**  
-  4.0/4.0 GPA, with coursework in advanced data structures, quantum algorithms, deep learning for NLP, generative AI, and computer vision.  
-
-- **Machine Learning Engineer Intern @ Kashmir World Foundation (Sep 2024 – Feb 2025)**  
-  Worked on large-scale bioacoustic classification (200K+ clips) with XGBoost, PyTorch, and OpenCV, plus model interpretability and dashboards for conservation research.  
-
-- **Software Engineer @ Stealth Startup (Feb 2023 – Jun 2024)**  
-  Implemented LLM-based finance workflows, evaluation scripts, and regression tests for production financial AI use cases.  
-
-- **B.A. Business Economics @ UC Irvine (2019–2022)**  
-  Bridging quantitative finance, economics, and machine learning.
-
----
-
-### Tech Stack
-
-- **Languages & ML Libraries**  
-  Python (TensorFlow, Scikit-learn, Keras, PyTorch, Seaborn, OpenCV), R, Java, C/C++, SQL  
-
-- **Tools & Frameworks**  
-  Git (CI/CD), Power BI, Tableau, Airtable, Docker, Excel  
-
-- **Data & Cloud**  
-  AWS (S3, EC2), Google Cloud Platform (GCP), Snowflake  
-
-- **Other**  
-  Experiment tracking, evaluation tooling, data quality checks, and dashboarding for ML systems.  
-
-- **Languages**  
-  English (Native), Vietnamese (Native), Spanish (Intermediate)  
-
----
-
-### Current Projects
-
-- **Loan Repayment Prediction (Kaggle – Playground Series)**  
-  Building and tuning ensemble models (LightGBM, XGBoost, CatBoost) with advanced feature engineering and model evaluation for credit risk and loan payback prediction.
-
-- **Thermophysical Property: Melting Point (Kaggle)**  
-  Predicting melting points of organic compounds using group contribution features, RDKit descriptors, and molecular fingerprints with gradient-boosted tree ensembles and feature selection.
-
----
-
-### Let's Connect
-
-- **LinkedIn:** [Thong Pham](https://www.linkedin.com/in/tpdatascience)  
-- **Email:** ThongPhamBusiness@gmail.com  
-- **Resume:** [View my resume](https://github.com/YouKnowJP/YouKnowJP/blob/main/Thong%20Pham%20Resume%20Quantitative.docx.pdf)
-
----
-
-From [YouKnowJP](https://github.com/YouKnowJP)
+<p align="center">
+  <strong>Have an interesting engineering problem or want to compare notes?</strong><br>
+  <a href="mailto:ThongPhamBusiness@gmail.com">Let's connect.</a>
+</p>

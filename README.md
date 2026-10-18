@@ -1,76 +1,59 @@
 # Thong Pham
 
-Las Vegas, NV
+**I build tools that make AI easier to evaluate, debug, and improve.**
 
-[ThongPhamBusiness@gmail.com](mailto:ThongPhamBusiness@gmail.com) |
+[Resume](documents/Thong-Pham-Resume.pdf) |
 [LinkedIn](https://www.linkedin.com/in/tpdatascience/) |
-[(714) 487-3430](tel:+17144873430) |
-[Resume (PDF)](documents/Thong-Pham-Resume.pdf)
+[Email](mailto:ThongPhamBusiness@gmail.com)
 
-## Professional Summary
+My work connects software engineering, LLM evaluation, and data systems. I have
+built Python tooling for AI labs, data pipelines for model analysis, and
+regression tests for LLM-based financial applications. I also build browser
+tools and explore machine learning through code.
 
-Software engineer at Mercor working on LLM evaluation, dataset and label quality,
-and data workflows. Experience includes bioacoustic machine learning and
-LLM-based financial applications.
+## Engineering with measurable results
 
-## Education
+Selected results from my work at Mercor:
 
-### University of Colorado, Boulder
+| Result | Engineering behind it |
+| --- | --- |
+| **~40% higher testing throughput** | Python tooling and LLM APIs that automate dataset and label quality checks. |
+| **~25% less manual data processing time** | Snowflake-to-Hex pipelines and dashboards for model performance and label coverage. |
+| **Above 99% first-pass fix rate** | Debugging LLM and data issues across Python, Java, and C/C++ services. |
 
-**Master of Science: Computer Science**<br>
-Specialization: Machine Learning | GPA: 4.0 / 4.0<br>
-June 2024 - December 2025 | Boulder, CO
+## Selected public projects
 
-### University of California, Irvine
+### [Tilewright](https://github.com/YouKnowJP/Personal-Project/tree/main/Tilewright)
 
-**Bachelor of Arts: Business Economics**<br>
-September 2019 - December 2022 | Irvine, CA
+A browser-based tile map editor with layers, undo/redo, and JSON/PNG exports.
+Explore the [document model](https://github.com/YouKnowJP/Personal-Project/blob/main/Tilewright/src/model.mjs)
+and [tests](https://github.com/YouKnowJP/Personal-Project/tree/main/Tilewright/tests)
+for editing rules, persistence, and packaging.
 
-## Work Experience
+### [Switchback](https://github.com/YouKnowJP/Personal-Project/tree/main/Switchback)
 
-### Mercor
+A Snake game with phase-switching puzzles, six campaign stages, and saved
+progress. Its [deterministic engine](https://github.com/YouKnowJP/Personal-Project/blob/main/Switchback/src/engine.mjs)
+keeps game rules separate from the browser interface.
 
-San Francisco, CA
+### [Machine learning implementations](https://github.com/YouKnowJP/Machine-Learning-Project)
 
-**Software Engineer & Tooling**<br>
-March 2025 - Present
+Linear and logistic regression, convolutional neural networks, and game agents
+using deep Q-learning and NEAT. A place to inspect how algorithms are implemented
+and how agents interact with their environments.
 
-- Built Python tooling that runs GPT-5, Gemini, and other LLM APIs to automatically validate dataset and label quality for multiple AI labs, increasing testing throughput by ~40% and accelerating R&D cycles.
-- Designed and maintained data pipelines from Snowflake into Hex, delivering analysis dashboards that track model performance and label coverage, cutting manual data processing time by ~25%.
-- Engineered end-to-end data labeling workflows like intake, QA feedback, reviewer handoffs, and merge to standardize quality checks and acceptance criteria, improving labeler throughput and maintaining <1% post evaluation defect rates.
-- Served as a quality SME for LLM evaluation workflows, resolving ambiguous requirements, clarifying acceptance criteria, and providing guidance on edge cases to reviewers and project Strategic Project Lead (SPL).
+### [Applied ML notebooks](https://github.com/YouKnowJP/Kaggle)
 
-**Software Engineer LLM**
+Experiments in bioacoustics, healthcare, finance, natural language processing,
+computer vision, and time-series forecasting.
 
-- Resolved hundreds of LLM and data-related issues each week across Python, Java, and C/C++ services; debugged API integration paths and rate limiting to reduce incident noise for AI lab partners.
-- Maintained a first-pass fix rate above 99% while ensuring all code changes met strict guidelines required by top AI research labs, resulting in significantly shortened review cycles.
-- Collaborated with research scientists and product managers to clarify ambiguous data requirements, define key edge cases, and produce implementation-ready technical specifications with clear acceptance criteria, reducing feature iteration time by 20%.
-- Reviewed evaluator outputs against project guidelines, identified recurring quality issues, and provided actionable feedback to improve reviewer consistency and adherence to acceptance criteria.
+## What I bring to a team
 
-### Kashmir World Foundation
+I turn ambiguous requirements into acceptance criteria, build repeatable
+evaluation workflows, and turn recurring bugs into regression tests. My
+background combines an M.S. in Computer Science with a Machine Learning
+specialization and a B.A. in Business Economics.
 
-**Machine Learning Engineer Intern**<br>
-September 2024 - February 2025 | Richmond, VA
-
-- Utilized XGBoost, PyTorch, and OpenCV on large-scale bioacoustic data (over 200K audio/video clips) to achieve 91.6% classification accuracy, demonstrating end-to-end data ingestion, hyperparameter tuning, and deployment.
-- Performed exploratory data analysis (EDA) and feature selection (random forests, correlation analysis) on complex signal-based datasets to enhance model interpretability for domain experts.
-- Created interactive Power BI and Tableau dashboards to present modeling insights and trend analyses, informing conservation researchers and decision-makers on species behavior.
-
-### Stealth Startup
-
-**Software Engineer**<br>
-February 2023 - June 2024 | Irvine, CA
-
-- Delivered LLM-based features for finance workflows when teams needed reliable automation on transaction data; owned prompt design, API orchestration, and output post-processing in Python using hosted model APIs to ship end-to-end.
-- Improved confidence in LLM behavior as prompts and logic evolved across core financial use cases like report generation, risk/exception handling; built lightweight evaluation scripts to benchmark outputs and show degradations during iteration.
-- Reduced recurring release issues in LLM-powered finance features when changes caused inconsistent outputs; built a Python regression test harness, curated representative transaction scenarios, and converted production bugs into repeatable test cases to validate prompt and post-processing updates before deployment, improving release confidence and reducing repeat incidents.
-
-## Technical Skills
-
-**Programming Languages:** Python (TensorFlow, Scikit-learn, Keras, PyTorch, Seaborn, OpenCV), R, Java, C/C++, SQL.
-
-**Tools & Frameworks:** Git (CI/CD), PowerBI, Tableau, Airtable, Docker, Excel, Google Sheets, Google Workspace.
-
-**Data Engineering & Big Data:** AWS (S3, EC2), Google Cloud (GCP), Snowflake.
-
-**Language:** English (Native), Vietnamese (Native), Spanish (Intermediate).
+For software engineering, LLM evaluation, or applied ML opportunities,
+[contact me](mailto:ThongPhamBusiness@gmail.com). Full experience and education
+details are in my [resume](documents/Thong-Pham-Resume.pdf).

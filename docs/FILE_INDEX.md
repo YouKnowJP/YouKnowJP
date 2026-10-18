@@ -1,31 +1,23 @@
 # YouKnowJP: File Index
 
-See the [professional profile](../README.md) for experience, skills, projects,
-education, and contact information.
+See the [professional profile](../README.md) for experience, education, skills,
+and contact information.
 
-This repository contains the professional profile, resume documents, and
-license for Thong Pham.
-
-## Folder Summary
-
-| Folder | Files |
-| --- | ---: |
-| Root files | 3 |
-| [docs](../docs/) | 1 |
-| [documents](../documents/) | 3 |
+The profile and Markdown resume reflect the supplied resume. The primary PDF
+and source archive preserve the supplied PDF without modification.
 
 ## Root Files
 
-- [.gitignore](../.gitignore)
-- [LICENSE](../LICENSE)
-- [README.md](../README.md)
+- [.gitignore](../.gitignore): Excludes operating-system metadata.
+- [LICENSE](../LICENSE): Repository license.
+- [README.md](../README.md): Professional profile.
 
 ## Documentation
 
-- [File index](FILE_INDEX.md)
+- [File index](FILE_INDEX.md): Repository contents and resume sources.
 
 ## Resume Documents
 
-- [Professional resume (PDF)](../documents/Thong-Pham-Resume.pdf)
-- [Editable resume (Markdown)](../documents/Thong-Pham-Resume.md)
-- [Original resume archive](../documents/Thong-Pham-Resume-Original.pdf)
+- [Resume (PDF)](../documents/Thong-Pham-Resume.pdf): Exact copy of the supplied resume.
+- [Resume (Markdown)](../documents/Thong-Pham-Resume.md): Markdown transcription of the supplied resume.
+- [Source resume archive](../documents/Thong-Pham-Resume-Original.pdf): Preserved source PDF.
